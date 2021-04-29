@@ -138,7 +138,7 @@ $ git push origin my-feature
 
 ---
 
-> This project was developed with ❤️ by **[@Renato Oliveira](https://www.linkedin.com/in/roliveira3891/)**, with the instructor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, in #NextLevelWeek05 from **[Rocketseat](https://rocketseat.com.br/)**.<br>
+> This project was developed by **[@Renato Oliveira](https://www.linkedin.com/in/roliveira3891/)**, with the instructor **[@GabulDev](https://www.linkedin.com/in/gabuldev/)**, in #NextLevelWeek05 from **[Rocketseat](https://rocketseat.com.br/)**.<br>
 
 
 ---
